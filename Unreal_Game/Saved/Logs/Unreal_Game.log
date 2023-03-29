@@ -604,3 +604,24 @@ Este host n?o ? conhecido.
 [2023.03.29-22.20.55:609][584]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel8E4B576B4B6CE9E48F68309CD7FAA479.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/MapLevel.umap'
 [2023.03.29-22.20.55:616][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapLevel_BuiltData" FILE="../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/MapLevel_BuiltData.uasset" SILENT=true
 [2023.03.29-22.20.55:622][584]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel_BuiltData3A753D05479D0EA2554A10BA8123871F.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/MapLevel_BuiltData.uasset'
+[2023.03.29-22.21.49:013][847]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2A64EAFB-4D69-22E8-DD5D-F6A700F42E26}
+[2023.03.29-22.21.49:013][847]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3775B58E-49A2-3C0B-0847-A9B5DCABFC30}
+[2023.03.29-22.22.34:381][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.29-22.22.34:381][299]LogMetaData: Removing '/Game/Levels/MapLevel.SKEL_MapLevel_C' ref from Metadata '/Game/MapLevel.PackageMetaData'
+[2023.03.29-22.22.34:381][299]LogMetaData: Removing '/Game/Levels/MapLevel.MapLevel_C' ref from Metadata '/Game/MapLevel.PackageMetaData'
+[2023.03.29-22.22.34:381][299]LogMetaData: Removing '/Game/Levels/MapLevel.MapLevel:PersistentLevel.MapLevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/MapLevel.PackageMetaData'
+[2023.03.29-22.22.34:381][299]LogMetaData: Removing '/Game/Levels/MapLevel.MapLevel:PersistentLevel.MapLevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/MapLevel.PackageMetaData'
+[2023.03.29-22.22.34:399][299]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel_BuiltData0D92CD294E4308BACA2C90AA5B4ADC76.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/Levels/MapLevel_BuiltData.uasset'
+[2023.03.29-22.22.34:425][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.29-22.22.34:488][299]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevelBD46D9504B1DFAFDF90807A43867470E.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/Levels/MapLevel.umap'
+[2023.03.29-22.22.34:494][299]LogFileHelpers: Saving map 'MapLevel' took 0.092
+[2023.03.29-22.22.34:591][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.29-22.22.34:617][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.29-22.22.34:647][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.29-22.22.34:670][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.29-22.22.36:083][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.29-22.22.36:144][377]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevelE384A8C04FCEA85CEA27FD9B699AC1B9.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/Levels/MapLevel.umap'
+[2023.03.29-22.22.36:157][377]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel_BuiltData13FC21BF4F16455723AC0F9278FE3E1A.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/Levels/MapLevel_BuiltData.uasset'
+[2023.03.29-22.22.43:153][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.29-22.22.43:214][795]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel3762B52C4B4D519569E0ECBE37B22023.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/Levels/MapLevel.umap'
+[2023.03.29-22.22.43:226][795]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel_BuiltData2EC79B774D83EA1374E300944AE64E07.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/Levels/MapLevel_BuiltData.uasset'
