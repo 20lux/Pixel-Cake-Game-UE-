@@ -589,3 +589,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.29-22.16.06:074][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2023.03.29-22.16.06:107][521]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2023.03.29-22.16.08:086][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.03.29-22.17.49:755][946]SourceControl: Source control is disabled
+[2023.03.29-22.18.15:013][644]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2023.03.29-22.18.15:013][644]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+Este host n?o ? conhecido. 
+
+[2023.03.29-22.18.58:289][949]SourceControl: Source control is disabled
+[2023.03.29-22.18.59:854][ 44]LogSlate: Window 'Source Control Login' being destroyed
+[2023.03.29-22.19.04:671][297]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.29-22.20.42:222][421]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.29-22.20.42:243][421]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.29-22.20.55:547][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.29-22.20.55:609][584]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel8E4B576B4B6CE9E48F68309CD7FAA479.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/MapLevel.umap'
+[2023.03.29-22.20.55:616][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapLevel_BuiltData" FILE="../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/MapLevel_BuiltData.uasset" SILENT=true
+[2023.03.29-22.20.55:622][584]LogSavePackage: Moving '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Saved/MapLevel_BuiltData3A753D05479D0EA2554A10BA8123871F.tmp' to '../../../../../../Users/Vinikholas/Desktop/Jame Gam 16/Pixel-Cake-Game-UE-/Unreal_Game/Content/MapLevel_BuiltData.uasset'
